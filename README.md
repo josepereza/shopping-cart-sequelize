@@ -1,6 +1,6 @@
 #SHOPPING CART WITH SEQUELIZE(MYSQL)
                                                                                                                                   
-
+![Alt text](shopping-cart-sequelize.png)
 Shopping Cart made in nodejs, expressjs and ejs
 
 Create a .env file in te root directory with the following environment variables set:
