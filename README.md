@@ -1,4 +1,6 @@
 #SHOPPING CART WITH SEQUELIZE(MYSQL)
+
+SOLAMENTE PUEDE TENER  UN USUARIO ACTIVO.
                                                                                                                                   
 ![Alt text](shopping-cart-sequelize.png)
 Shopping Cart made in nodejs, expressjs and ejs
